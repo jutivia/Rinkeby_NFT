@@ -1,0 +1,9 @@
+{
+  "name": "JUJU NFT",
+  "description": "trying out NFTs",
+  "image": "ipfs://QmRvyrhs6TQxbJZXeZFGHCMURy7BPmUACFyVGVr4QEeE3z",
+  "attributes": [  {
+      "trait_type": "Achievement", 
+      "value": "Excellence"
+    } ]
+}
